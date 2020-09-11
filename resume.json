@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Bulat Akhmetzyanov",
+    "label": "Programmer",
+    "picture": "https://i.imgur.com/6TIWfCR.jpeg",
+    "email": "bularond@protonmail.com",
+    "phone": "+7 (917) 40 98 245",
+    "summary": "Потом что-нибудь сюда напишу. Может быть.",
+    "website": "https://bularond.ru",
+    "location": {
+      "address": "Ulitsa Makovskogo, 2, Odintsovo, Moscow Oblast, 143006",
+      "postalCode": "143006",
+      "city": "Odintsovo",
+      "countryCode": "RU",
+      "region": "Moscow Oblast"
+    },
+    "profiles": [
+      {
+        "network": "Telegram",
+        "username": "bualrond",
+        "url": "https://t.me/bularond"
+      },
+      {
+        "network": "VK",
+        "username": "bularond",
+        "url": "https://vk.com/bularond"
+      },
+      {
+          "network": "Codeforces",
+          "username": "bularond",
+          "url": "https://codeforces.com/profile/bularond"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Higher School of Economics",
+      "area": "Software engineering",
+      "studyType": "Bachelor",
+      "startDate": "2020-09-01",
+      "endDate": "till now"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Open olympiad for schoolchildren",
+      "date": "2020-03-15",
+      "awarder": "ITMO",
+      "summary": "Received a 2nd degree diploma."
+    },
+    {
+      "title": "NTI Contest: Smart city",
+      "date": "2020-03-14",
+      "awarder": "NTI",
+      "summary": "Took first place in the individual standings."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Bot API",
+      "level": "Middle",
+      "keywords": [
+        "vk",
+        "telegram",
+        "python"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "Junior",
+      "keywords": [
+        "python",
+        "nodejs",
+        "typescript",
+        "flask",
+        "express"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Board games",
+      "keywords": [
+        "D&D",
+        "Manchkin",
+        "Monopoly"
+      ]
+    }
+  ],
+  "references": []
+}
