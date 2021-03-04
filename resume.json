@@ -1,12 +1,13 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Bulat Akhmetzyanov",
     "label": "Programmer",
-    "picture": "https://i.imgur.com/6TIWfCR.jpeg",
+    "image": "https://i.imgur.com/6TIWfCR.jpeg",
     "email": "bularond@protonmail.com",
     "phone": "+7 (917) 40 98 245",
+    "url": "https://bularond.ru",
     "summary": "Back-end programmer from Ufa",
-    "website": "bularond.ru",
     "location": {
       "address": "Ulitsa Makovskogo, 2, Odintsovo, Moscow Oblast, 143006",
       "postalCode": "143006",
@@ -15,6 +16,11 @@
       "region": "Moscow Oblast"
     },
     "profiles": [
+      {
+        "network": "Github",
+        "username": "bualrond",
+        "url": "https://github.com/bularond"
+      },
       {
         "network": "Telegram",
         "username": "bualrond",
@@ -37,10 +43,11 @@
   "education": [
     {
       "institution": "Higher School of Economics",
+      "url": "https://hse.ru/",
       "area": "Software engineering",
       "studyType": "Bachelor",
       "startDate": "2020-09-01",
-      "endDate": "till now"
+      "endDate": "2024-06-30"
     }
   ],
   "awards": [
@@ -76,6 +83,7 @@
         "SQL",
         "MongoDB"
       ]
+    },
     {
       "name": "Bot API",
       "level": "Middle",
@@ -122,5 +130,11 @@
       ]
     }
   ],
-  "references": []
+  "references": [],
+  "projects": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
 }
