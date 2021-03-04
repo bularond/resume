@@ -5,8 +5,8 @@
     "picture": "https://i.imgur.com/6TIWfCR.jpeg",
     "email": "bularond@protonmail.com",
     "phone": "+7 (917) 40 98 245",
-    "summary": "Потом что-нибудь сюда напишу. Может быть.",
-    "website": "https://bularond.ru",
+    "summary": "Back-end programmer from Ufa",
+    "website": "bularond.ru",
     "location": {
       "address": "Ulitsa Makovskogo, 2, Odintsovo, Moscow Oblast, 143006",
       "postalCode": "143006",
@@ -60,6 +60,23 @@
   "publications": [],
   "skills": [
     {
+      "name": "Back-end",
+      "level": "Basic",
+      "keywords": [
+        "REST",
+        "Python",
+        "Rust",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Medium",
+      "keywords": [
+        "SQL",
+        "MongoDB"
+      ]
+    {
       "name": "Bot API",
       "level": "Middle",
       "keywords": [
@@ -69,14 +86,12 @@
       ]
     },
     {
-      "name": "Back-end",
-      "level": "Junior",
+      "name": "IOT",
+      "level": "Basic",
       "keywords": [
-        "python",
-        "nodejs",
-        "typescript",
-        "flask",
-        "express"
+        "Arduino",
+        "C++",
+        "LoraWAN"
       ]
     }
   ],
@@ -95,8 +110,15 @@
       "name": "Board games",
       "keywords": [
         "D&D",
-        "Manchkin",
-        "Monopoly"
+        "tactical",
+        "paty game"
+      ]
+    },
+    {
+      "name": "Books",
+      "keywords": [
+        "fantasy",
+        "non-fiction"
       ]
     }
   ],
